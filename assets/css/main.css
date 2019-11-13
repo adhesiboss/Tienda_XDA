@@ -10055,12 +10055,6 @@ header {
     height: auto;
   }
 
-  .about__img {
-    width: 100%;
-    height: auto;
-    background-color: black;
-  }
-
   .about__col-p {
     margin-top: 37px;
     width: 260px;
