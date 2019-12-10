@@ -1,34 +1,15 @@
 // esquema de colores
 
-// primer esquema de color
-$white: #fff;
-$isabelline: #EEEDED;
-$Spanishgray: #989797;
 
-// segundo esquema de color
-$Coral: #EACB31;
-$Buff: #F1DD7B;
-$Vanilla: #F5E7A1;
-
-// tercer esquema de color
-$Flame: #E4572E;
-$Lightredochre: #E87554;
-$Pastelpink: #F2B2A0;
-
-// 4to esquema de color
-$Shinyshamrock: #4CA866;
-$Turquoisegreen: #9DCFAB;
-$Pastelgray: #BDDFC7;
-
-// 5to esquema de color
-$BluedeFrance: #3C91E6;
-$Bluejeans: #5FA5EA;
-$Jordyblue: #82B9EF;
 
 // 6to esquema de color
 $Black: #000000;
 $Outerspace: #454545;
 $Quicksilver: #A2A2A2;
+$black: #000000;
+$white: #ffffff;
+$grey: #646266;
+$Spanishgray: #989797;
 
 // tipografia
 $oldstandard: 'Old Standard TT', serif;
@@ -40,3 +21,13 @@ $xx-large: 40px;
 $x-large: 30px;
 $large: 18px;
 $medium: 16px;
+
+$num-column: 12;
+
+// Brakepoints
+$small: 576px;
+$medium: 770px;
+$large: 992px;
+$xlarge: 1200px;
+
+
