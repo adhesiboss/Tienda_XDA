@@ -1,0 +1,23 @@
+body {
+    background-image: url('../img/back-image.png');
+    background-repeat: no-repeat;
+    background-position-y: 9vh;
+    background-size: contain;
+    font-size: 16px;
+  
+    @media only screen and (min-width: 576px)  {
+      background-position-y: -3vh;
+      // background-size: cover;
+    }
+  
+    @media only screen and (min-width: $medium) {
+      background-position: top right;
+      background-position-y: 11vh;
+      background-size: 60vw;
+    }
+  }
+  
+  a {
+    color: $black;
+    text-decoration: none;
+  }
